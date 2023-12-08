@@ -1,0 +1,9 @@
+---
+title: "intergers between 1 and 10"
+author: "A Werner"
+date: "17 November 2023"
+output:
+  html_document:
+    df_print: paged
+---
+# My firs R markdown print file
