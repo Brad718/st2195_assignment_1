@@ -1,0 +1,16 @@
+---
+title: "intergers between 1 and 10"
+author: "A Werner"
+date: "17 November 2023"
+output:
+  html_document:
+    df_print: paged
+  pdf_document: 
+---
+# My firs R markdown print file
+
+
+```{r arithmetic}
+print(1:10)
+
+```
