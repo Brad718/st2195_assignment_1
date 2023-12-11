@@ -1,1 +1,12 @@
+"""
+# created on December 8th 2023
 
+@auther A.Werner
+
+# st2195 assignment_1 intergers 1 to 10 python script.
+"""
+
+
+for i in range(1,11):
+    print(i)
+    
